@@ -16,4 +16,4 @@ class Testing
 end
 
 testing = Testing.new
-testing.Name
+testing.Goodbye

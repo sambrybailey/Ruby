@@ -20,4 +20,4 @@ class Testing
 end
 
 testing = Testing.new
-testing.Goodbye
+testing.Surname

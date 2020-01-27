@@ -13,6 +13,10 @@ class Testing
   def Name
     puts "Name: "
   end
+
+  def Surname
+    puts "Surname: "
+  end
 end
 
 testing = Testing.new

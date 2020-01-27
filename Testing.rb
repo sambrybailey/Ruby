@@ -11,7 +11,7 @@ class Testing
   end
 
   def Name
-    puts "Name: " + name
+    puts "Name: "
   end
 end
 

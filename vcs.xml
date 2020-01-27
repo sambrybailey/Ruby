@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\sambailey\RubymineProjects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
 </application>

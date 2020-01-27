@@ -15,7 +15,5 @@ class Testing
   end
 end
 
-name = "Sam Bailey"
-
 testing = Testing.new
-testing.Hello
+testing.Name

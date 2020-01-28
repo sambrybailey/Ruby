@@ -1,23 +1,11 @@
 class Testing
-  def Hello
-    puts "Hello"
-  end
-  def Goodbye
-    puts "Goodbye"
+  def multiply_numbers(a,b)
+    c=a*b
+    return c
   end
 
-  def Welcome
-    puts "Welcome"
-  end
-
-  def Name
-    puts "Name: "
-  end
-
-  def Surname
-    puts "Surname: "
+  def add_numbers(a,b)
+    c=a+b
+    puts c
   end
 end
-
-testing = Testing.new
-testing.Surname

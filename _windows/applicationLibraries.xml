@@ -263,6 +263,36 @@
         <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/cucumber-wire-0.0.1/spec" />
       </excluded>
     </library>
+    <library name="debase (v0.3.0.beta23, ruby-2.7.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-0.3.0.beta23/ext" />
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-0.3.0.beta23/lib" />
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-0.3.0.beta23/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-0.3.0.beta23/ext" />
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-0.3.0.beta23/lib" />
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-0.3.0.beta23/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-0.3.0.beta23/ext" />
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-0.3.0.beta23/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.9, ruby-2.7.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-ruby_core_source-0.10.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/debase-ruby_core_source-0.10.9/lib" />
+      </SOURCES>
+    </library>
     <library name="delegate (v0.1.0, ruby-2.7.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
